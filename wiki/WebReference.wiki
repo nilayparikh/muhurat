@@ -1,4 +1,4 @@
-#labels KPMuhurat,Astrology,Marriage,Education,Job,Interview,Abroad,Interview,KPHoraryastrology
+#labels KPMuhurat,Astrology,Marriage,Education,Job,Interview,Abroad,Interview,KPHoraryastrology,Muhurta,Horary
 You can also find information about KP Muhurat in the following web sites
 
 You can also download kp Muhurat software from:
